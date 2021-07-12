@@ -1,0 +1,92 @@
+
+.main{
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20201023/pngtree-technological-background-vector-illustration-matrix-binary-computer-code-image_432632.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    color: #ffffff;
+    overflow: scroll;
+    font-size: 21px;    
+}
+#title {
+    text-align: center;
+    font-family: 35px;
+}
+#description{
+    text-align: center;
+}
+.main-content{
+    background:  rgba(240, 6, 228, 0.856);
+    height: auto;
+    width: 50%;
+    color: #ffffff;
+    opacity: 0.9;
+    border: 3px solid;
+    margin: auto;
+    padding: 10px;
+    border-radius: 1%;
+    
+    }
+    input#name{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid rgb(148, 235, 7);
+        border-radius: 4px;
+        box-sizing:border-box;
+      }
+      input#name{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid rgb(7, 235, 185);
+        border-radius: 4px;
+        box-sizing:border-box;
+      }
+      input#email{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid rgb(7, 235, 185);
+        border-radius: 4px;
+        box-sizing:border-box;
+      }
+      input#number, select{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid rgb(7, 235, 185);
+        border-radius: 4px;
+        box-sizing:border-box;
+      }
+        textarea{
+        width: 100%;
+        padding: 12px 20px;
+        margin: 8px 0;
+        display: inline-block;
+        border: 3px solid rgb(7, 235, 185);
+        border-radius: 4px;
+        box-sizing:border-box;
+      }
+      
+      input[type=submit] {
+        width: 100%;
+        background-color: #4CAF50;
+        color: white;
+        padding: 14px 20px;
+        margin: 8px 0;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+      }
+      input[type=submit]:hover {
+        background-color: #45a049;
+      }

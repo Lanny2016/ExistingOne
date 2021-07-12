@@ -1,0 +1,20 @@
+
+body{
+line-height: 2;
+color: grey;
+}
+#navbar {
+    position: fixed;
+    height: 100%;
+    top:  0px;
+    left: 0px;
+    width: 25vw;
+    border-style: solid;
+    border-width: 3px;
+  }
+  #navbar header {
+  text-align: center;
+  color: black
+  
+  }
+ 
