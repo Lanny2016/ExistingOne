@@ -1,6 +1,7 @@
 body{
    background-image: url(https://i0.wp.com/rayhaber.com/wp-content/uploads/2019/04/halkali-gebze-banliyo-hatti-tren-ucretleri-ve-sefer-saatleri.jpg?fit=678%2C381&ssl=1);
    background-size: cover;
+   
 }
 h1{
     margin-left: 800px;
@@ -12,4 +13,15 @@ h2{
     margin-left: 890px;
     color: white;
     font-weight: bold;
+}
+#increment-btn{
+    margin-left: -65px;
+    background: darkred;
+    color: white;
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 150px;
 }
